@@ -1,4 +1,4 @@
-# Chi BLog
+# Chi Blog
 
 This is the simple react project. You can run `npm start` to start the service.
 
